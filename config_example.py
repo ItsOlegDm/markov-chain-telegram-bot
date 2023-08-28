@@ -1,0 +1,4 @@
+
+BOT_TOKEN = '1347ms7HfJIQQRXWkLQKlk'
+BOT_USERNAME = "averwave_bot"
+USER_ID = 367313204
